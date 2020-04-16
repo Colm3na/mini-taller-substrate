@@ -1,4 +1,4 @@
-# Mini taller de Substrate
+# Mini taller de Substrate / Javascript
 
 
 ## Bloques
